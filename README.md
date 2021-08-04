@@ -1,2 +1,2 @@
 # tictac
-A python ti-ctac-toe with console entry-point
+A python tic-tac-toe game with console entry-point
